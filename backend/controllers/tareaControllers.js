@@ -1,9 +1,9 @@
 const getTareas = (req,res) => {
-    res.json({message: 'Obtener tareas desde getTareas'})
+    res.json({message: 'Obtener tareas desde getTareas _'})
 } 
 
 const postTareas = (req,res) => {
-    res.json({message: 'Crear una tarea'})
+    res.json({message: 'Crear una tarea desde postTareas'})
 } 
 
 
